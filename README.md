@@ -1,6 +1,6 @@
 # FCSC 2020 Flag Checker
 
-On vous demande simplement de trouver le flag.
+Voici un service qui permet simplement de vérifier si le flag est correct.
 
 
 Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
