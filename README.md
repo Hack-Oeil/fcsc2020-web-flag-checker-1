@@ -3,7 +3,7 @@
 Voici un service qui permet simplement de vérifier si le flag est correct.
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 
 Origine : [Flag Checker](https://hackropole.fr/fr/challenges/web/fcsc2020-web-flag-checker-1/)
